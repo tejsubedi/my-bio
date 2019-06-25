@@ -1,0 +1,33 @@
+body {
+    margin: 0 auto;
+    padding: 0;
+    width: 1200px;
+}
+h1 {
+    font-size: 60px;
+    text-align: center;
+    margin: 0px;
+    background-color: black;
+    color: beige;
+}
+.container {
+    margin: 0 auto;
+    padding: 1rem;
+    background-color: bisque;
+    display: flex;
+}
+.inline {
+    width: 30%;
+    float: left;
+}
+#header{
+    margin-left: 12px;
+}
+#page{
+    margin-right: 15px;
+}
+#footer{
+    margin-left: 65px;
+}
+
+
